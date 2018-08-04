@@ -1,7 +1,7 @@
 # WashHouse
 Udacity Nanodegree Program. Build a Single Screen App
 
-![alt text](https://drive.google.com/open?id=0B12wmavIH1RYT0cwRXk0OUN5cG1KMnQ1UUk2YkdnNndsLXg4)
+![alt text](https://github.com/banjotobi/WashHouse/blob/master/Screenshot_2018-08-05-00-27-35.png)
 
 The application incorporates a ScrollView with multiple LayoutViews. 
 

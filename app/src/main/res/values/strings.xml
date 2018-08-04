@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WashHouse</string>
+    <string name="address">6, Adenuga Street,\nOpposite Adesegun House,\nItamerin Road, Ago Iwoye,\nOgun State, Nigeria</string>
+    <string name="telephones">08160401580\n07056322948</string>
+    <string name="mail_address">washhouselaundryservices@gmail.com</string>
+    <string name="what">WHAT WE DO</string>
+    <string name="washing">WASHING\nCLOTHES</string>
+    <string name="drying">DRYING\nCLOTHES</string>
+    <string name="ironing">IRONING\nCLOTHES</string>
+</resources>
